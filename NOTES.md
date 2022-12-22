@@ -1,5 +1,7 @@
 # Notes
 
+- https://github.com/jpadilla/black-playground + https://black.vercel.app/
+
 ## Snippet
 
 ```python
