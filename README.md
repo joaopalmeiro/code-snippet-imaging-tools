@@ -13,4 +13,6 @@
 
 - [Website](https://www.ray.so/)
 
+### Example
+
 ![ray.so example](assets/ray.png)
